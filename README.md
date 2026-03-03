@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AventoursNYC;Python+%7C+React+%7C+Node+%7C+MySQL;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=8000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AventoursNYC;Python+%7C+React+%7C+Node+%7C+MySQL;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">
   <span style="color:#0E75B6;">Agustín López</span>
@@ -9,9 +9,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Real+World+Applications;Python+%7C+React+%7C+Node+%7C+SQL;Founder+%40+AventoursNYC;Future+Full+Stack+%26+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=8000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Real+World+Applications;Python+%7C+React+%7C+Node+%7C+SQL;Founder+%40+AventoursNYC;Future+Full+Stack+%26+Engineer" />
 </p>
-
 ---
 
 ## 🌟 About Me
