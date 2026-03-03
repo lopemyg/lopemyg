@@ -74,16 +74,6 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 - Participated in the **CI/CD pipeline setup on GitHub**, including automated testing, builds, and deployment  
 - Assisted in **iOS app deployment** to the App Store, ensuring smooth release processes
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🎯 Career Focus
 
 I’m focused on building **real-world, scalable software systems** across multiple layers of the stack:
