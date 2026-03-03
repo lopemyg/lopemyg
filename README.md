@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+AventoursNYC;C%2B%2B+%7C+Flutter+%7C+PHP+%7C+MySQL;Future+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+AventoursNYC;Python+%7C+React+%7C+Node+%7C+MySQL;Future+Data+Engineer)](https://git.io/typing-svg)
