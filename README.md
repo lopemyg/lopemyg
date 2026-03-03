@@ -15,9 +15,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=8000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Real+World+Applications;Python+%7C+React+%7C+Node+%7C+SQL;Founder+%40+AventoursNYC;Future+Full+Stack+%26+Engineer" />
 </p>
----
 
-## 🌟 About Me
+
+## About Me
 
 I’m a Computer Science student and Founder of the next wave of tourism experiences, focused on building scalable, secure, and real-world systems.
 
