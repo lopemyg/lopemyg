@@ -5,18 +5,18 @@
 </h1>
 
 <h3 align="center">
-  🚀 App Development Intern | 🎓 CS Student | 🏗 Founder of AventoursNYC
+  🚀 App Development Intern @TheDifference | 🎓 CS Student & Cybersecurity | 🏗 Founder of AventoursNYC
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Real+World+Applications;Python+%7C+React+%7C+Node+%7C+SQL;Founder+%40+AventoursNYC;Future+Backend+%26+Data+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+Real+World+Applications;Python+%7C+React+%7C+Node+%7C+SQL;Founder+%40+AventoursNYC;Future+Full+Stack+%26+Engineer" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I’m a Computer Science student and app development intern focused on building scalable, secure, and real-world systems.
+I’m a Computer Science student and Founder of the next wave of tourism experiences, focused on building scalable, secure, and real-world systems.
 
 I combine:
 - 💡 Product thinking  
@@ -24,7 +24,7 @@ I combine:
 - 🔐 Security awareness  
 - 📈 Startup execution  
 
-Currently building **AventoursNYC**, a digital self-guided tourism platform delivering immersive audio tours with secure infrastructure and direct payment systems.
+Currently building AventoursNYC, a scalable self-guided audio tourism platform focused on secure content delivery, seamless payments, and direct-to-consumer digital experiences.
 
 ---
 
@@ -35,9 +35,9 @@ Currently building **AventoursNYC**, a digital self-guided tourism platform deli
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 </p>
 
@@ -45,7 +45,7 @@ Currently building **AventoursNYC**, a digital self-guided tourism platform deli
 
 ## 🏗 Founder — AventoursNYC
 
-🎧 A digital tourism platform offering self-guided audio tours.
+🎧 A digital tourism platform offering self-guided audio tours and Map Integration.
 
 ### 🔐 What I Engineered
 - Secure private audio storage
@@ -53,6 +53,7 @@ Currently building **AventoursNYC**, a digital self-guided tourism platform deli
 - API-based access control
 - Cloud infrastructure for protected content
 - Direct-to-consumer web distribution
+- No App required
 
 ### 🧠 Engineering Focus
 - Scalable backend architecture  
@@ -62,14 +63,16 @@ Currently building **AventoursNYC**, a digital self-guided tourism platform deli
 
 ---
 
-## 💼 Experience
+## 💼 Experience:
 
-### 🚀 App Development Intern
-- Contributed to mobile & web application features
-- Built and tested API integrations
-- Worked in sprint-based development cycles
-- Improved performance & usability
+### 🚀 App Development Intern @ TheDifference
 
+- Contributed to mobile (iOS) and web application features  
+- Built, tested, and integrated APIs for production  
+- Worked in sprint-based development cycles using Agile methodology  
+- Improved performance, usability, and scalability of features  
+- Participated in the **CI/CD pipeline setup on GitHub**, including automated testing, builds, and deployment  
+- Assisted in **iOS app deployment** to the App Store, ensuring smooth release processes
 ---
 
 ## 📊 GitHub Stats
@@ -81,16 +84,15 @@ Currently building **AventoursNYC**, a digital self-guided tourism platform deli
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Career Focus
 
-I’m focused on:
+I’m focused on building **real-world, scalable software systems** across multiple layers of the stack:
 
-- 🔹 Backend Engineering  
-- 🔹 Data Engineering  
-- 🔹 Fintech Systems  
-- 🔹 Scalable SaaS Platforms  
-
-I build with long-term architecture in mind — not just quick demos.
+- 🔹 **Backend Engineering** – designing APIs, secure systems, and data pipelines  
+- 🔹 **Full Stack Development** – combining Python, Node.js, React, and mobile frameworks to build end-to-end applications  
+- 🔹 **Frontend Development** – delivering clean, responsive, and user-friendly web interfaces  
+- 🔹 **iOS App Development** – contributing to mobile apps and managing App Store deployment  
+- 🔹 **Scalable SaaS Platforms** – architecting products that can grow with users and demand
 
 ---
 
