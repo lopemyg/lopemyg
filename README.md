@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 App Development Intern @TheDifference | 🎓 CS Student & Cybersecurity | 🏗 Founder of AventoursNYC
+  🚀 App Development Intern @TheDifference | 🎓 CS Student & Cybersecurity | 🏗 Founder of AventoursNYC 
 </h3>
 
 <p align="center">
@@ -48,7 +48,7 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 
 ## 🏗 Founder — AventoursNYC
 
-🎧 A digital tourism platform offering self-guided audio tours and Map Integration.
+🎧 A digital tourism platform offering self-guided audio tours and Map Integration B2C & B2B Platform.
 
 ### 🔐 What I Engineered
 - Secure private audio storage
