@@ -91,7 +91,7 @@ I’m focused on building **real-world, scalable software systems** across multi
 
 ## ⚡ Currently
 
-- Expanding AventoursNYC
+- Expanding AventoursNYC https://www.aventoursnyc.com/
 - Deepening backend & data engineering knowledge
 - Building production-ready systems
 - Preparing for impactful engineering roles
