@@ -88,6 +88,7 @@ I’m focused on building **real-world, scalable software systems** across multi
 - 🔹 **Scalable SaaS Platforms** – architecting products that can grow with users and demand
 
 ---
+-Looking for a Founder
 
 ## ⚡ Currently
 
