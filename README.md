@@ -22,10 +22,10 @@
 I’m a Computer Science student and Founder of the next wave of tourism experiences, focused on building scalable, secure, and real-world systems.
 
 I combine:
-- 💡 Product thinking  
-- 🧠 Engineering fundamentals  
-- 🔐 Security awareness  
-- 📈 Startup execution  
+-  Product thinking  
+-  Engineering fundamentals  
+-  Security awareness  
+-  Startup execution  
 
 Currently building AventoursNYC, a scalable self-guided audio tourism platform focused on secure content delivery, seamless payments, and direct-to-consumer digital experiences.
 
