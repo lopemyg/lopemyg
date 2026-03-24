@@ -46,11 +46,11 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 
 ---
 
-## 🏗 Founder — AventoursNYC
+##  Founder — AventoursNYC
 
-🎧 A digital tourism platform offering self-guided audio tours and Map Integration B2C & B2B Platform.
+ A digital tourism platform offering self-guided audio tours and Map Integration B2C & B2B Platform.
 
-### 🔐 What I Engineered
+###  What I Engineered
 - Secure private audio storage
 - Stripe payment verification
 - API-based access control
@@ -58,7 +58,7 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 - Direct-to-consumer web distribution
 - No App required
 
-### 🧠 Engineering Focus
+###  Engineering Focus
 - Scalable backend architecture  
 - Secure file access patterns  
 - Payment processing systems  
@@ -66,9 +66,9 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 
 ---
 
-## 💼 Experience:
+##  Experience:
 
-### 🚀 App Development Intern @ TheDifference
+###  App Development Intern @ TheDifference
 
 - Contributed to mobile (iOS) and web application features  
 - Built, tested, and integrated APIs for production  
@@ -77,20 +77,20 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 - Participated in the **CI/CD pipeline setup on GitHub**, including automated testing, builds, and deployment  
 - Assisted in **iOS app deployment** to the App Store, ensuring smooth release processes
 ---
-## 🎯 Career Focus
+##  Career Focus
 
 I’m focused on building **real-world, scalable software systems** across multiple layers of the stack:
 
-- 🔹 **Backend Engineering** – designing APIs, secure systems, and data pipelines  
-- 🔹 **Full Stack Development** – combining Python, Node.js, React, and mobile frameworks to build end-to-end applications  
-- 🔹 **Frontend Development** – delivering clean, responsive, and user-friendly web interfaces  
-- 🔹 **iOS App Development** – contributing to mobile apps and managing App Store deployment  
-- 🔹 **Scalable SaaS Platforms** – architecting products that can grow with users and demand
+-  **Backend Engineering** – designing APIs, secure systems, and data pipelines  
+-  **Full Stack Development** – combining Python, Node.js, React, and mobile frameworks to build end-to-end applications  
+-  **Frontend Development** – delivering clean, responsive, and user-friendly web interfaces  
+-  **iOS App Development** – contributing to mobile apps and managing App Store deployment  
+-  **Scalable SaaS Platforms** – architecting products that can grow with users and demand
 
 ---
 -Looking for a Founder
 
-## ⚡ Currently
+##  Currently
 
 - Expanding AventoursNYC https://www.aventoursnyc.com/
 - Deepening backend & data engineering knowledge
