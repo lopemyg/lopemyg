@@ -31,7 +31,7 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
