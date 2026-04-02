@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
- Ex App Development Intern @TheDifference | CS Student & Cybersecurity |  Founder of AventoursNYC 
+  App Development Intern @TheDifference | CS Student & Cybersecurity |  Founder of AventoursNYC 
 </h3>
 
 <p align="center">
