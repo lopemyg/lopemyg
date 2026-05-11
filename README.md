@@ -25,7 +25,8 @@ I combine:
 -  Product thinking  
 -  Engineering fundamentals  
 -  Security awareness  
--  Startup execution  
+-  Startup execution
+-  Full stack development
 
 Currently building AventoursNYC, a scalable self-guided audio tourism platform focused on secure content delivery, seamless payments, and direct-to-consumer digital experiences.
 
