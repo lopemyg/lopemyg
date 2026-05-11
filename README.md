@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#0E75B6;">Agustin Lopez</span>
+  <span style="color:#0E75B6;">Agustin Lopez Tamayo</span>
 </h1>
 
 <h3 align="center">
