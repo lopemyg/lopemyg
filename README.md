@@ -19,7 +19,7 @@
 
 ## About Me
 
-I’m a Computer Science student & Founder of the next tourism experiences, focused on building scalable, secure, and real-world systems.
+I’m a Computer Science student & Founder of the next tourism experiences platform, focused on building scalable, secure, and real-world systems.
 
 I combine:
 -  Product thinking  
