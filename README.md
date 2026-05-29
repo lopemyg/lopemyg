@@ -51,6 +51,9 @@ Currently building AventoursNYC, a scalable self-guided audio tourism platform f
 
  A digital tourism platform offering self-guided audio tours and Map Integration B2C & B2B Platform.
 
+ AI Tools: TourStudio
+ Tour Studio lets operators design multilingual, map-based audio tours with AI — from itinerary to published link — and pay only per tour created.
+
 ###  What I Engineered
 - Secure private audio storage
 - Stripe payment verification
