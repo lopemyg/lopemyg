@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#0E75B6;">Agustin Lopez</span>
+  <span style="color:#0E75B6;">Agustin Lopez Tamayo </span>
 </h1>
 
 <h3 align="center">
@@ -21,7 +21,7 @@
 
 I’m a Computer Science student & Founder of the next tourism experiences platform, focused on building scalable, secure, and real-world systems.
 
-I combine:
+I combine 
 -  Product thinking  
 -  Engineering fundamentals  
 -  Security awareness  
