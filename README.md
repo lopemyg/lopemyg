@@ -100,6 +100,7 @@ I’m focused on building **real-world, scalable software systems** across multi
 - Deepening backend & data engineering knowledge
 - Building production-ready systems
 - Preparing for impactful engineering roles
+- Building fridnly managment systems for kindergarthens
 
 ---
 
