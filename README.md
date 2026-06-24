@@ -27,6 +27,8 @@ I combine
 -  Security awareness  
 -  Startup execution
 -  Full stack development
+-  System Design
+-  Agentic Workflow
 
 Currently building AventoursNYC,  scalable self-guided audio tourism platform focused on secure content delivery, seamless payments, and direct-to-consumer digital experiences.
 
