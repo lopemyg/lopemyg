@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  App Development  @TheDifference | CS Student & Information Security |  Building of AventoursNYC - AI Engineer Building Full Stack Development
+  App Development @TheDifference | CS Student & Information Security |  Building AventoursNYC - AI Engineer Building Full Stack Development
 </h3>
 
 <p align="center">
